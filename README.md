@@ -1,13 +1,10 @@
 <div align="center">
-<a href="https://www.canva.com/design/DAG6as54OsI/2qaZDzIoYMY8KwqDUjZKKg/view?utm_content=DAG6as54OsI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa642ada9e#1" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/ColectivoHagamos/EcoBalance360-Mapa-Nacional-de-Captura-y-Emisiones-de-Carbono/blob/main/Doc/EcoBalance360.png?r=duu" width="85%" align="center" alt="EcoBalance360"/>
+  
+<a href="https://www.canva.com/design/DAG6as54OsI/2qaZDzIoYMY8KwqDUjZKKg/view?utm_content=DAG6as54OsI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=haa642ada9e#1" target="_blank">
+<img src="https://github.com/ColectivoHagamos/EcoBalance360-Mapa-Nacional-de-Captura-y-Emisiones-de-Carbono/blob/main/Doc/EcoBalance360.png?r=duu" width="90%" align="center" alt="EcoBalance360"/>
 </a>
-</div>
 
-<!--
-# EcoBalance360 🌱
--->
-
+</br>
 </br>
 
 **Mapa Nacional de Captura y Emisiones de Carbono**
@@ -446,7 +443,7 @@ npm run dev
 
 La aplicación está desplegada en Vercel:
 
-**[https://colectivohagamos.com](https://colectivohagamos.com)**
+<a href="https://colectivohagamos.com" target="_blank">https://colectivohagamos.com</a>
 
 ---
 
@@ -568,9 +565,9 @@ copias o partes sustanciales del Software.
 
 ### Datos Abiertos
 
-- [Datos Abiertos Colombia](https://www.datos.gov.co/)
-- [Global Forest Watch](https://www.globalforestwatch.org/)
-- [Sistema Único de Información de Servicios Públicos - SUI](https://sui.superservicios.gov.co/)
+- <a href="https://www.datos.gov.co" target="_blank">Datos Abiertos Colombia</a>
+- <a href="https://www.globalforestwatch.org" target="_blank">Global Forest Watch</a>
+- <a href="https://sui.superservicios.gov.co" target="_blank">Sistema Único de Información de Servicios Públicos - SUI</a>
 
 ---
 
@@ -579,6 +576,6 @@ copias o partes sustanciales del Software.
 </p>
 
 <p align="center">
-  <a href="https://colectivohagamos.com"target="_blank" rel="noopener noreferrer">Ver Aplicación</a> •
-  <a href="https://www.instagram.com/hagamoses/" target="_blank" rel="noopener noreferrer">Colectivo HAGAMOS</a>
+  <a href="https://colectivohagamos.com" target="_blank">Ver Aplicación</a>
+  <a href="https://www.instagram.com/hagamoses" target="_blank">Colectivo HAGAMOS</a>
 </p>
